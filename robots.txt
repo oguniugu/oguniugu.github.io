@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oguniugu.github.io/GPD/sitemap_index.txt
+Sitemap: https://oguniugu.github.io/Ily/sitemap_index.txt
+Sitemap: https://oguniugu.github.io/rJt/sitemap_index.txt
+Sitemap: https://oguniugu.github.io/xUJ/sitemap_index.txt
